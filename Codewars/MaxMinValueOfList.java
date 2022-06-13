@@ -2,7 +2,7 @@
 
 import java.util.*;
 
-public class Kata {
+public class MaxMinValueOfList {
 
   public int min(int[] list) {
     Arrays.sort(list);
