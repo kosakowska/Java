@@ -1,6 +1,6 @@
 //Switch it Up!
 
-public class switchItUp
+public class SwitchItUp
 {
   public static String solution(int number)
   {
