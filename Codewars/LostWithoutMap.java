@@ -1,6 +1,6 @@
 //Beginner - Lost Without a Map
 
-public class Maps {
+public class LostWithoutMap {
   public static int[] map(int[] arr) {
   int [] anArray = new int[arr.length];
   for(int i=0;i<arr.length;i++)
