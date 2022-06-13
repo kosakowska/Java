@@ -2,7 +2,7 @@
 
 import java.util.*;
 
-public class MixedSum {
+public class sumMixedArray {
 
   public int sum(List<?> mixed) {
     int sum=0;
