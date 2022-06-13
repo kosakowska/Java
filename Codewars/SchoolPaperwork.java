@@ -1,6 +1,6 @@
 //Beginner Series #1 School Paperwork
 
-public class schoolPaperwork
+public class SchoolPaperwork
 {
   public static int paperWork(int n, int m) 
   {
