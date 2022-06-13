@@ -1,6 +1,6 @@
 //Will you make it?
 
-public class Kata {
+public class FuelCounter {
   
   public static boolean zeroFuel(double distanceToPump, double mpg, double fuelLeft) {
     
