@@ -1,6 +1,6 @@
 //Transportation on vacation
 
-public class Kata {
+public class transportationOnVacation {
   public static int rentalCarCost(int d) {
     int sum=d*40;  
     if(d>=7) sum-=50;
