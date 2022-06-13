@@ -1,8 +1,8 @@
 //Switch it Up!
 
-public class Kata
+public class switchItUp
 {
-  public static String switchItUp(int number)
+  public static String solution(int number)
   {
     switch(number)
       {
